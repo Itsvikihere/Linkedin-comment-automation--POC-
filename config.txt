@@ -1,0 +1,5 @@
+E:\\Linkedin comment automation\\chromedriver.exe
+https://www.linkedin.com/login
+https://www.linkedin.com/search/results/all/?keywords=opportunity&origin=TYPEAHEAD_HISTORY&searchId=a9bb3e54-1c83-4597-9fcc-f7cba6d19acd&sid=N.B&spellCorrectionEnabled=true
+5
+3
